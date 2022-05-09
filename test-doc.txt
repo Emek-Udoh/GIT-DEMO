@@ -1,3 +1,7 @@
  This is a first class on hands on practice.
 
 I will do something.
+
+GIT is getting cooler by the day!
+
+Coding is life.
